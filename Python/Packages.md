@@ -7,7 +7,7 @@
 - [TensorFlow](https://www.tensorflow.org/)
 - [scikit-learn](https://scikit-learn.org/)
 - [MXNet](https://github.com/apache/incubator-mxnet)
-- [PyTorch](https://github.com/pytorch/pytorch)
+- [PyTorch](https://github.com/pytorch/pytorch) GPU Compute
 
 ## Tool
 
