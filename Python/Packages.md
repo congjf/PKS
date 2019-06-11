@@ -1,15 +1,20 @@
 
+# Python
 
-# Mechine Learning
+## BI Plotting
 
-## Framework
+- Matplotlib
+
+## Mechine Learning
+
+### Framework
 
 - [TensorFlow](https://www.tensorflow.org/)
 - [scikit-learn](https://scikit-learn.org/)
 - [MXNet](https://github.com/apache/incubator-mxnet)
 - [PyTorch](https://github.com/pytorch/pytorch) GPU Compute
 
-## Tool
+### Tool
 
 - [magenta](https://github.com/tensorflow/magenta?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more) Draw & Music Create
 - [style2paints](https://github.com/lllyasviel/style2paints) Fill Color in the Painting
@@ -32,8 +37,8 @@
 - [pirateAT](https://github.com/HugoCMU/pirateAI) Game Simulation
 - [Deep Exemplar-Based Colorization](https://github.com/msracver/Deep-Exemplar-based-Colorization) Tinting
 
-## Other Language
+# Swift
 
-### Swift
+## Mechine Learning
 
 - [EmojiIntelligence](https://github.com/BilalReffas/EmojiIntelligence)  Emotion
